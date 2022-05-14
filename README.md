@@ -11,7 +11,7 @@
 
 -How to reach me **salmayasser1900@gmail.com**
 
-- <a href = "https://drive.google.com/file/d/16vNarKHiJplHxEoKokvFrsphDhWViMrj/view?usp=sharing"><a>
+- <a href = "https://drive.google.com/file/d/16vNarKHiJplHxEoKokvFrsphDhWViMrj/view?usp=sharing"> Resume <a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
