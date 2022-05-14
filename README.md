@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Salma Yasser</h1>
-<h3 align="center">A am Information System student with an interest in data analysis, front-end development and project manangment.</h3>
+<h3 align="center">I am Information System student with an interest in data analysis, front-end development and project manangment.</h3>
 
 -I’m currently working on **Job-Hub Project**
 
