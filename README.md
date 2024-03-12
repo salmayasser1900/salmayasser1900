@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Salma Yasser</h1>
-<h3 align="center">I am Information System student with an interest in data analysis, front-end development and project manangment.</h3>
+<h3 align="center">Fresh graduate from the Faculty of Computers and Information, IS department, Kafr El-Sheikh University, with an interest in data analysis, and data engineering.</h3>
 
--I’m currently working on **Leaves Project**
+-I’m currently working on **DWH Project**
 
--I’m currently learning **Data analysis and Angular**
+-I’m currently learning **Data analysis**
 
 -I regularly talk about Project Management
 
--Ask me about **Front-end, Data Analsis and Business Information System**
+-Ask me about **Data Analysis, and Business Information Systems**
 
 -How to reach me **salmayasser1900@gmail.com**
 
